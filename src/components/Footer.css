@@ -5,6 +5,9 @@
   margin: 5%;
 }
 
+.footer-icon{
+  width: 30%;
+}
 .footer-icons {
   display: flex;
   flex-direction: column;

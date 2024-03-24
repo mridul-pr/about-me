@@ -1,5 +1,7 @@
 import React from 'react';
+import {useRef} from "react";
 import './NavBar.css'
+
 
 function Navbar() {
     return (
@@ -40,4 +42,3 @@ function Navbar() {
     );
   }
   export default Navbar;
-  ;

@@ -1,3 +1,8 @@
+h1{ /* For Complete Website*/
+    font-family: Lexend Deca;
+    font-weight: 700;
+}
+
 .aboutme{
     background-color: #111827;
     padding:4%;
@@ -9,6 +14,8 @@
 
 .aboutme-title{
     color: #F3F4F6;
+    font-family: Lexend Deca;
+    font-weight: bold;
 }
 .aboutme-content {
     color : #6B7280;
@@ -17,10 +24,9 @@
 }
 
 .image1{
-    width: 20%;
-    height: 50%;
+    width: 50%;
+    height: 70%;
     border-radius: 24px;
-    width: 475px;
     transform: scaleX(-1);
 }
 
@@ -28,7 +34,7 @@
    display: flex;
    align-items:left;
    align-content: left;
-   width: 80%;
+   width: 70%;
    margin: auto;
 }
 .aboutme-items{

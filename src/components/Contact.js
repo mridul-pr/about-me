@@ -3,7 +3,7 @@ import './Contact.css'
 
 function Contact() {
   return (
-    <div className='contact'>
+    <div className='contact' id='contact'>
         <div className='contact-container'>
         <h1 className='contact-Title'>Contact <span>Me</span></h1>
         <p className='contact-content'>There are many variations of passages ofLorem Ipsum available, but the majority havesuffered alteration in some form, by injected humour,</p>

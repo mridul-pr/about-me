@@ -4,6 +4,12 @@
     display: flex;
     justify-content: center;
 }
+
+.myservices-Title{
+    font-family: Lexend Deca;
+    font-weight: bold;
+}
+
 .myservices-items{
     width: 90%;
 }
