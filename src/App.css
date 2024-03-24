@@ -1,0 +1,37 @@
+@media only screen and (max-width: 768px) {
+    /* Adjustments for mobile screens */
+    .App {
+        width: 100%;
+    }
+    .hero-section-content-box {
+        padding: 20px;
+    }
+    .hero-section-container {
+        text-align: center;
+    }
+    .aboutme-container {
+        flex-direction: column;
+        align-items: center;
+    }
+    .myservices-items {
+        text-align: center;
+    }
+    .myportifolio-items {
+        text-align: center;
+    }
+    .myexperience-items {
+        text-align: center;
+    }
+    .contact-container {
+        text-align: center;
+    }
+
+    body {
+        margin: 0; /* Reset default margin */
+        padding: 0; /* Reset default padding */
+    }
+    .App, .App-header, .navbar, .hero-section, .aboutme, .myservices, .myportifolio-container, .myexperience, .contact, .footer {
+        width: 135%; /* Ensure full width */
+    }
+    /* Add more adjustments as needed */
+}
