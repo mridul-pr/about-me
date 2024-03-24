@@ -16,7 +16,6 @@ function Footer() {
             <a href='#instagram' className='icon1'><i class="bi bi-instagram"/></a>
             <a href='#youtube' className='icon1'><i class="bi bi-youtube"/></a>
             <a href='#pinterest' className='icon1'><i class="bi bi-pinterest"/></a>
-
             </h3>
             </div>
         </div>
