@@ -1,0 +1,26 @@
+.footer {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  margin: 5%;
+}
+
+.footer-icons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; /* Center items vertically */
+}
+
+.footer-title {
+  font-family: Lexend Deca;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50px;
+  text-align: center;
+}
+
+.icon1 {
+  color: #1F2937;
+  padding: 3%;
+}

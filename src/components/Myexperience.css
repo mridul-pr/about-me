@@ -1,0 +1,42 @@
+.myexperience{
+    padding:6%;
+    background-color: #111827;
+    display: flex;
+    justify-content: center;
+}
+
+.myexperience-items{
+    display:flex;
+    flex-direction: column;
+    width: 90%;
+    
+}
+
+h2{
+    color: #EAB308;
+}
+
+h3,h4{
+    color: #D1D5DB;
+}
+
+.myexperience-content{
+    width: 60%;
+}
+
+span{
+    color: #EAB308;
+}
+
+.cards{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.cards div{
+    background: #020617;
+    font-size: 13px;
+    font-weight: 300;
+    border-radius: 10px;
+}

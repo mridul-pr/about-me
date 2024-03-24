@@ -1,0 +1,52 @@
+.contact-Title ,.contact-content{ 
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.contact-content{
+    margin-bottom: 5%;
+}
+
+input{
+    background-color: #1F2937;
+    padding: 10%;
+    border: 0px;
+}
+
+.contact-input{
+    padding-bottom: 10%;
+}
+.contact-input-message{
+    padding: 10%;
+}
+
+p{
+    color: white;
+}
+
+.display-info{
+    font-size: larger;
+    width: 50%;
+}
+
+.contact-inner{
+    display: flex;
+    flex-direction: row;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    height: 100px;
+    width: 300px;
+}
+.contact{
+    padding:6%;
+}
+
+.contact-input{
+    height: 60%;
+    width:60%;
+}
